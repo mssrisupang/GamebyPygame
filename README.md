@@ -110,19 +110,3 @@ Run the script in VS Code. If a window appears titled "Pygame Test," your instal
 
 ---
 
-## ✅ Step 9: Deactivate or Remove the Environment (Optional)
-
-### To deactivate:
-Just close the terminal or run:
-```bash
-deactivate
-```
-(if using CMD/bash). In PowerShell, simply open a new terminal.
-
-### To delete it completely:
-Delete the `pygame_env` folder from your project.
-
----
-
-🎉 You're now ready to start developing games with **Pygame** in **VS Code** using Python 3.10+!
-
